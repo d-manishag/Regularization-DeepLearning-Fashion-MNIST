@@ -5,6 +5,7 @@ The regularization effect is studied by experimenting and bhulding Deep learning
 - Convolutional Neural Network (CNN)
 - Multi-Level Perceptron (MLP)
 - Visual Geometry Group 16 (VGG16)
+
 The above models are built with and without Regularization to see how much effect Regularization has in the case of accurate classifying and improving accuracy.
 
 ## Regularization Techniques
